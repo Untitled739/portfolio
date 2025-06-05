@@ -158,12 +158,6 @@ footer {
 }
 /*this is just for the trail not the full*/
 
-/* Tablet screens: 400px to 600px */
-@media screen and (min-width: 600px) and (max-width: 800px) {
-    body {
-        font-size: 1rem;
-    }
-}
 /* For large tablet and Laptops*/
 @media  screen and (min-width:800px) and (max-width:1080px) {
     body {
